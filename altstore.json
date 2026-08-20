@@ -1,0 +1,26 @@
+{
+  "name": "meowse",
+  "identifier": "com.meowse.source",
+  "apps": [
+    {
+      "beta": false,
+      "name": "uYouEnhanced",
+      "bundleIdentifier": "com.meowse.uYouEnhanced",
+      "developerName": "olive",
+      "subtitle": "im olive",
+      "version": "v3.0.4",
+      "versionDate": "2025-05-07T11:36:00+02:00",
+      "versionDescription": "whatever",
+      "downloadURL": "/yt-uYE-20442-304.ipa",
+      "localizedDescription": "yippiee!!!.",
+      "iconURL": "/favicon-32x32.png",
+      "tintColor": "9b54fd",
+      "size": 8161611,
+      "screenshotURLs": [
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
+        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+      ]
+    }
+  ]
+}
